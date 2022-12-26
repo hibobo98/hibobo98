@@ -1,8 +1,9 @@
 ### I'm bowon kang 👋
-![main배경](https://user-images.githubusercontent.com/117331188/209514466-75f820a9-4907-4432-984d-8ad526615396.jpg)
+
+![main](https://user-images.githubusercontent.com/117331188/209515349-a25e8c95-d365-44fb-a54b-79a436c2b185.jpg)
 
 
-## 📫 How to reach me : 
+## 📫 How to reach me : iambowonkang@gmail.com
 <!--
 **hibobo98/hibobo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

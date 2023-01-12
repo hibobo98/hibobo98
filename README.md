@@ -3,12 +3,11 @@
 ![main](https://user-images.githubusercontent.com/117331188/209515349-a25e8c95-d365-44fb-a54b-79a436c2b185.jpg)
 
 🎓 Electronic Engineering(2017.03 ~ 2022.08)
+<br>
 🎓 Electric Power Energy Engineering (2017.03 ~ 2022.08)
 
-## 📫 How to reach me : iambowonkang@gmail.com
+📫 How to reach me : iambowonkang@gmail.com
 
-<!--
-**hibobo98/hibobo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
@@ -17,7 +16,7 @@
 <summary>Sub Skills</summary>
 <p></p>
 
-![C#](https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=c-sharp&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) 
 
 
 </details>
@@ -32,6 +31,8 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </details>
 
+<!--
+**hibobo98/hibobo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

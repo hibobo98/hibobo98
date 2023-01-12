@@ -6,16 +6,17 @@
 <br>
 🎓 Electric Power Energy Engineering (2017.03 ~ 2022.08)
 
-📫 How to reach me : iambowonkang@gmail.com
+📫 E-mail : iambowonkang@gmail.com
+📰 Portfolio :
 
-
+<br>
 ![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
 ![OracleSQL](https://img.shields.io/badge/-Oracle-FD5750?style=flat-square&logo=Oracle&logoColor=white)
 
+<details>
 <summary>Sub Skills</summary>
 <p></p>
-<details>
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) 
 </details>
 
@@ -30,6 +31,26 @@
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </details>
+
+
+### 자격증
+
+### 어학
+
+### 경력
+
+### 프로젝트
+
+### TOY 프로젝트
+
+### 사회활동/교육이력
+- 최우수 공모전 동아리APLUSES
+- GPP 해외기업탐방
+    - 탐방국가 : 미국
+    - 탐방주제 : 공유경제플랫폼 서비스 기업인 리프트와 교통국 해외기업탐방
+    - 탐방기간 : 2019.07(2주간)
+
+### 스터디(직무 역량 개발)
 
 <!--
 **hibobo98/hibobo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

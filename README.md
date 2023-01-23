@@ -1,5 +1,3 @@
-### I'm bowon kang 👋
-
 ![header](https://user-images.githubusercontent.com/117331188/209515349-a25e8c95-d365-44fb-a54b-79a436c2b185.jpg)
 
 ![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
@@ -24,8 +22,7 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </details>
 
-
-<br>
+# Profile
 🎓 Electronic Engineering(2017.03 ~ 2022.08)
 <br>
 🎓 Electric Power Energy Engineering (2017.03 ~ 2022.08)
@@ -34,42 +31,77 @@
 <br>
 📰 Portfolio :
 
-
-
+# Activity
 
 ### 자격증
 
+- 빅데이터분석기사(Engineer BigDataAnalysis) <br>
+- ADSP(Advanced Data Analytics Semi-Professional) <br>
+
 ### 어학
+- (ENG) OPIC : IH
 
 ### 경력
+- BTI Solutins. (2020.03 ~ 2021.02)
+- Berkeley Heights, NJ, USA 
+- S사 스마트폰 소프트웨어 테스트 엔지니어 (인턴)
+- 설명설명 ~ 
+- (K-digital) 빅데이터 전문가 양성과정 (2022.08.00 ~ 2023.02.15)
 
 ### 프로젝트
+- 진동데이터 이용한 휠 잔량 예측 시스템
+    - 수행기간
+    - 프로젝트 설명
+    - 사용 기술
+    - 수행 인원 : 강보원(외 3명)  
+- Yolov5을 활용한 생활 폐기물 분류 시스템 개발 및 웹페이지 제작 
+    - 수행기간
+    - 프로젝트 설명
+    - 사용 기술
+    - 수행 인원 : 강보원(외 3명)
+- Dacon 기계 오일 분류 경진대회 
+    - 수행기간
+    - 프로젝트 설명
+    - 사용 기술
+    - 수행 인원 : 강보원(외 3명)
+- 행전안전부 어쩌고 위치선정 (사용언어 R) 
+    - 수행기간
+    - 프로젝트 설명
+    - 사용 기술
+    - 수행 인원 : 강보원(외 3명)
+
 
 ### TOY 프로젝트
--따릉이
-- 와인
+- 시험 문제 제출 및 학적관리 시스템 
+- 서울시 따릉이 대여량 예측 
+- 와인 
 - 주택
 
 ### 사회활동/교육이력
-- 최우수 공모전 동아리APLUSES
+- 최우수 공모전 동아리APLUSES 문서팀장
+- 가야나래 봉사단 
 - GPP 해외기업탐방
     - 탐방국가 : 미국
     - 탐방주제 : 공유경제플랫폼 서비스 기업인 리프트와 교통국 해외기업탐방
     - 탐방기간 : 2019.07(2주간)
+- GNU buddy 유학생 도우미 
+- 퍼니퍼니 놀이터 교육봉사 
+- 벽화봉사
+- k-digital 
+- 도메인 지식 
+    - 공학수학
+    - 신호 및 시스템
+    - 통신 시스템 
+- 프로그래밍 언어 
+    - Python 
+    - sql 
+    - r
+    - c ++ 
+- 활용 프로그램 
+    - 
 
 ### 스터디(직무 역량 개발)
-
-<!--
-**hibobo98/hibobo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 머신러닝
+- 딥러닝
+- 백앤드 
+- 프론트앤드 

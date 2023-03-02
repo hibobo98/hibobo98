@@ -1,5 +1,8 @@
 ![header](https://user-images.githubusercontent.com/117331188/209515349-a25e8c95-d365-44fb-a54b-79a436c2b185.jpg)
 
+
+📰 Portfolio : **[PDF📘](주소 입력)**
+
 ![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
 ![OracleSQL](https://img.shields.io/badge/-Oracle-FD5750?style=flat-square&logo=Oracle&logoColor=white)
@@ -30,7 +33,7 @@
 <br>
 📫 E-mail : iambowonkang@gmail.com
 <br>
-📰 Portfolio : 추가예정
+
 
 # Activity
 

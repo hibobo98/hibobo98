@@ -30,7 +30,7 @@
 <br>
 📫 E-mail : iambowonkang@gmail.com
 <br>
-📰 Portfolio : 추가예정`
+📰 Portfolio : 추가예정
 
 # Activity
 

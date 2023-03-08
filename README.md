@@ -108,6 +108,7 @@
     - R
     - c ++ 
 - 활용 프로그램 
+    - Oracle
     - influxdb
     - grafana
 

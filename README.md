@@ -113,7 +113,7 @@
     - grafana
 
 ### 스터디(직무 역량 개발)
-- 머신러닝
-- 딥러닝
-- 백앤드 
-- 프론트앤드 
+- 머신러닝 XGB, KNN, ...
+- 딥러닝 CNN, Arima, ...
+- 백앤드 Flask, Django
+- 프론트앤드 HTML, Bootstrap, ...

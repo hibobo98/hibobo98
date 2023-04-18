@@ -54,7 +54,7 @@
 
 - (K-digital) 빅데이터 전문가 양성과정 (2022.08.23 ~ 2023.02.15)
 
-- BTI Solutins. (2020.03 ~ 2021.02)
+- BTI Solutions Inc. (2020.03 ~ 2021.02)
     - Berkeley Heights, NJ, USA 
     - S사 스마트폰 소프트웨어 테스트 엔지니어 (인턴)
 

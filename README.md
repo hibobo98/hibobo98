@@ -45,7 +45,7 @@
 
 - 빅데이터분석기사(Engineer BigDataAnalysis) <br>
 - ADSP(Advanced Data Analytics Semi-Professional) <br>
-- 
+- SQLD(SQL Developer) <br>
 
 ### 어학
 - (ENG) OPIC : IH

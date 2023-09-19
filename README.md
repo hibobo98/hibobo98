@@ -1,9 +1,9 @@
 ![header](https://user-images.githubusercontent.com/117331188/209515349-a25e8c95-d365-44fb-a54b-79a436c2b185.jpg)
 
 # Portfolio 📰
- **[PDF📘](https://drive.google.com/file/d/1xTXLGQFHrSpJ2h-TSAC3kbYKlY40LMJB/view?usp=sharing)**
+ **[PDF📘]**
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibobo98&layout=compact&theme=synthwave)
 
 
 

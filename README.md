@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:A3DCBE,100:7BD1D2&text=Bowon Kang&fontAlign=30&animation=twinkling&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:A3DCBE,100:7BD1D2&text=Bowon%20 Kang&fontAlign=30&animation=twinkling&fontColor=FFFFFF)
 
 
 

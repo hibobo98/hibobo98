@@ -6,7 +6,7 @@
 :point_up: 클릭해보세요 :relaxed:
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibobo98&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibobo98&layout=compact&theme=vue)
 
 
 

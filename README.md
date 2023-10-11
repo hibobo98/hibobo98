@@ -1,5 +1,5 @@
 # Portfolio 📰
- **[PDF📘]**
+ **[포트폴리오로 연결됩니다 :point_right: PDF📘]**
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibobo98&layout=compact&theme=transparent)

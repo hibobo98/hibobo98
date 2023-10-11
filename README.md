@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Bowon Kang&fontAlign=30&animation=twinkling 4s)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:A3DCBE,100:7BD1D2&text=Bowon Kang&fontAlign=30&animation=twinkling&fontColor=FFFFFF)
 
 # Portfolio 📰
 :point_up: 클릭해보세요 :relaxed:

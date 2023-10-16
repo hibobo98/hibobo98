@@ -3,7 +3,6 @@
 
 
 # Portfolio 📰
-:point_up: 클릭해보세요 :relaxed:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibobo98&layout=compact&theme=vue)
@@ -121,3 +120,5 @@
 - 머신러닝 XGB, KNN, ...
 - 딥러닝 CNN, Arima, ...
 - 백앤드 Flask, Django
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhibobo98&count_bg=%2379C83D&title_bg=%23555555&icon=iconify.svg&icon_color=%2383E690&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

@@ -3,10 +3,7 @@
 
 
 # Portfolio 📰
-📰 Portfolio : [PDF📘](https://drive.google.com/file/d/1rEVjd72ZYnmkJkYGBbbHwNwv-4GrUnAl/view?usp=sharing)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibobo98&layout=compact&theme=vue)
-
+[PDF📘](https://drive.google.com/file/d/1rEVjd72ZYnmkJkYGBbbHwNwv-4GrUnAl/view?usp=sharing)
 
 
 ![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)

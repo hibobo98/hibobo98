@@ -3,7 +3,7 @@
 
 
 # Portfolio 📰
-
+📰 Portfolio : [PDF📘](https://drive.google.com/file/d/1rEVjd72ZYnmkJkYGBbbHwNwv-4GrUnAl/view?usp=sharing)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibobo98&layout=compact&theme=vue)
 
@@ -70,11 +70,14 @@
     - 수행 인원 : 강보원(외 3명)  
     - 나의 역할 
     - 시계열 데이터 전처리, 상관 분석 및 정상성 판별, 알고리즘 구현, 모델 평가, DB 구축, Django/Grafana 대시보드 구축 
-    - Repository 바로가기 📘
 - <strong> Yolov5을 활용한 생활 폐기물 분류 시스템 개발 및 웹페이지 제작 </strong>
-    - 수행기간
+    - 수행기간 : 2022.12.16 ~ 2022.12.24 
     - 프로젝트 설명
+    - 1) 이미지, 영상 분석
+      2) Roboflow를 이용한 라벨링
+      3) Flask를 이용한 웹 제작 
     - 사용 기술
+    - CNN, Yolov5, Flask, CSS
     - 수행 인원 : 강보원(외 3명)
 - <strong> Dacon 기계 오일 분류 경진대회 </strong>
     - 수행기간
@@ -82,9 +85,13 @@
     - 사용 기술
     - 수행 인원 : 강보원(외 3명)
 - <strong> EDA 및 공간 분석을 활용한 개방형 경로당 입지선정 (사용언어 R) </strong>
-    - 수행기간
+    - 수행기간 : 2022.11.14 ~ 2022.11.25
     - 프로젝트 설명
-    - 사용 기술 
+    - 1) 엔진오일에 포함된 불순물을 통한 상태 측정
+      2) ML을 이용한 2종 분류 알고리즘 구현
+    - 사용 기술
+    - XGB, LGBM, NGB 등 사용
+    - 오버/언더 샘플링, 스케일링 
     - 수행 인원 : 강보원(외 3명)
 
 

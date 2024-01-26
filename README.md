@@ -35,7 +35,6 @@
 
 # Activity
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdqd3528)](https://solved.ac/rkdqd3528/)
 
 ### 자격증
 

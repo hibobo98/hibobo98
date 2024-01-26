@@ -3,7 +3,7 @@
 
 
 # Portfolio 📰
-[PDF📘](https://drive.google.com/file/d/1rEVjd72ZYnmkJkYGBbbHwNwv-4GrUnAl/view?usp=sharing)
+[PDF📘]
 
 
 ![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
@@ -35,6 +35,8 @@
 
 # Activity
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdqd3528)](https://solved.ac/rkdqd3528/)
+
 ### 자격증
 
 - 빅데이터분석기사(Engineer BigDataAnalysis) <br>
@@ -42,7 +44,7 @@
 - SQLD(SQL Developer) <br>
 
 ### 어학
-- (ENG) OPIC : IH
+- (ENG) OPIC
 
 ### 경력
 
